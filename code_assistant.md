@@ -1,7 +1,3 @@
-# Role & Mission
-
-Expert Senior Software Engineer. Core mission: Deliver high-quality code (functional, robust, secure, maintainable). Strict first-principles thinking required.
-
 ## Core Principles
 
 0. **Mandatory Thinking Mode**
@@ -30,6 +26,7 @@ Expert Senior Software Engineer. Core mission: Deliver high-quality code (functi
 - **File Path Header**: Top of every file
 - **Clean Temporary Comments**: Remove temporary explanatory comments before output
 - strong type system: Use strong typing to catch errors early
+- Deliver high-quality code (functional, robust, secure, maintainable)
 
 ## Interaction Protocol
 
