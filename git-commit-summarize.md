@@ -1,3 +1,7 @@
-summarize the change into a simple commit with a 3-5 sentence commit notes
+summarize the change you made into a simple commit with a 3-5 sentence commit notes
 
-list out all the files that were changed in the commit
+also give a list of files that were changed
+
+```
+git add <file list>
+```
