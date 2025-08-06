@@ -22,18 +22,21 @@ Before writing any code, you must first analyze the user's request and all provi
 
   - The entire code block is wrapped by `### SOURCE CODE ###` and `### SOURCE CODE END ###`.
   - Each individual file is contained within its own `<file>` and `</file>` tags.
-  - The first line inside each `<file>` tag is the file's relative path.
   - **Example:**
+
     ```
     ### SOURCE CODE ###
+
     <file>
     src/app/component.js
     // existing code for the component
     </file>
+
     <file>
     styles/main.css
     /* existing css styles */
     </file>
+
     ### SOURCE CODE END ###
     ```
 
