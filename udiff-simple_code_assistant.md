@@ -16,7 +16,23 @@ explain the changes you made in the code.
 output changes of files in unified diff format. except files that are deleted and created.
 if files is created, just output the content of the file.
 if files is deleted, just output the name of the file.
-single markdown code block for each file.
+Markdown code block per file:
+
+`path/to/file1`
+
+```diff
+--- a/path/to/file1
++++ b/path/to/file1
+diff1
+```
+
+`path/to/file2`
+
+```
+file2
+```
+
+your code should always base on the latest version, including the changes you made
 
 Order of output:
 
