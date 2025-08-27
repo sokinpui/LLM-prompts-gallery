@@ -12,8 +12,19 @@ explain more, don't hesitate to explain the code in detail.
 explain the changes you made in the code.
 
 only output the whole files that is modified or created in the response.
+Markdown code block per file:
 
-Markdown code block per file
+`path/to/file1`
+
+```
+file1
+```
+
+`path/to/file2`
+
+```
+file2
+```
 
 Order of output:
 
