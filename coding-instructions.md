@@ -15,7 +15,7 @@ You should follow instruction below when write code
 1. output changes of files in unified diff format. except files that are deleted and created.
 2. Use Markdown code block per file:
 3. code generation should always base on the latest version
-4. You should refer to the code in the latest version when you modify code.
+4. You should refer to the code in the latest version when you modify code including the change you made
 
 ## File Modify:
 
