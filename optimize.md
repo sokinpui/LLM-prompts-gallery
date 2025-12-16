@@ -34,11 +34,8 @@ Style: [Functional vs. OOP, specific naming conventions (PEP8, CamelCase), comme
 [Specific edge case handling requirements].
 [Error handling requirements (try/catch, logging)].
 
-### USER INPUT
+### Clarification (Optional):
 
-[Insert the specific query or code snippets provided by the user here].
-
-Clarification (Optional):
 If my initial request is too vague to generate a good prompt (e.g., "Fix my code" with no code attached), ask me some clarifying questions before generating the prompt.
 If you need more context to refine the prompt, request additional details from me. and wait for my response before proceeding.
 
