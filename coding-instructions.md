@@ -23,6 +23,7 @@ You should follow instruction below when write code:
 1. output changes of files in unified diff format. except files that are deleted and created.
 2. Use Markdown code block per file:
 3. code generation should always base on the latest version
+4. you should only output single codeblocker per files. either create, rename, delete or modify.
 
 ## File Modify:
 
@@ -128,14 +129,14 @@ Good Example:
 
 `file1.md`
 
-```diff
+````diff
 --- a/path/to/file
 +++ b/path/to/file
 @@ -line,line +line,line @@
  context line
 -removed line
 +added line
-```
+````
 
 ## multi Code Block Formatting
 
